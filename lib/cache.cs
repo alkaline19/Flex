@@ -2,7 +2,7 @@
 
 namespace flexlib
 {
-    public class Class1
+    public class cache
     {
     }
 }

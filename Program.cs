@@ -6,7 +6,7 @@ namespace Flex
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Flex version " + )
+            Console.WriteLine("Flex version ");
         }
     }
 }
